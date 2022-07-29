@@ -120,7 +120,7 @@ The first goal of our app is to get our base file structure ready to go. This in
 
 Unlike Rails, React doesn't come with a built in router. So we can use a very popular third party application called `react-router-dom` to add the ability to navigate between pages. First we need to add the necessary packages to our application using a yarn command. This adds the react-router to the *package.json* file.
 ```
-$ yarn add react-router-dom@5.3.0
+$ yarn add react-router-dom@5.3.3
 ```
 
 This allows us to import routing components to our application. *App.js* will be in charge of handling the routes and displaying the components.
