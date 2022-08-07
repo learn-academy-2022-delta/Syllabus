@@ -169,7 +169,7 @@ The other two are mostly the same.
 ### React Router
 In order to have multiple pages we need to add the React router and import the appropriate components.
 
-- $ `yarn add react-router-dom@5.3.0`
+- $ `yarn add react-router-dom@5.3.3`
 
 **app/javascript/components/App.js**
 ```javascript
